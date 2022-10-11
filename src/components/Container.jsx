@@ -1,6 +1,7 @@
 import { Title } from "../components/Title";
 import { Activity } from "../components/Activity";
 import { Url } from "../components/Url";
+import { Text } from "../components/Text"
 import './Container.css'
 
 
@@ -20,6 +21,7 @@ export function Container() {
       <Activity s1 = {data[0].activity}/>
       <Url s2 = {data[0].image}/>
       <Title s3 = {data[0].title}/>
+      <Text s4 = {data[0].text}/>
     </div>
   );
 }
