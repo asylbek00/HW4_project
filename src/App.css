@@ -1,0 +1,24 @@
+
+.img{
+  width: 500px;
+  height: 600px;
+}
+.activity{
+  position: absolute;
+  background-color: rgb(131, 9, 9);
+  width: 100px;
+  height: 100px;
+  left: 480px
+}
+.title{
+  width: 500px;
+  height: 100px;
+  background-color: rgb(31, 129, 66);
+  margin:  0 auto;
+  position: relative;
+}
+.container{
+  background-color: rgb(92, 127, 149);
+  margin:  0 auto;
+  text-align: center;
+}
