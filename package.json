@@ -1,7 +1,7 @@
 {
   "name": "my-app4",
   "version": "0.1.0",
-  "homepage": "https://asylbek00.github.io/HW4_project",
+  "homepage": "https://asylbek00.github.io/hw4_",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
