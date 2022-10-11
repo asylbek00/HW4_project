@@ -9,7 +9,8 @@ const data = [
     activity: "Акын, прозаик",
     image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSHWHag0CNByVNcc92nZjXSaFUGjGP75wkyBlzP_W&s",
     title: "Алыкул Осмонов",
-  },
+    text: 'Бар бололу, түгөнбөйлү, курдаштар,Узак, узак, узак болсун бул сапар.Кылым бүтүп, дүйнөдөн жок болсок да,Кайра кайтып жолугушчу жолдор бар.'
+  }
  
 ];
 
